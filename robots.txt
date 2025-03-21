@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nobuyaiwao.github.io/sitemap.xml
