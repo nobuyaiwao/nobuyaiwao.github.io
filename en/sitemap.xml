@@ -14,18 +14,6 @@
                 href="https://nobuyaiwao.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://nobuyaiwao.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://nobuyaiwao.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nobuyaiwao.github.io/en/"
-                />
-  </url><url>
     <loc>https://nobuyaiwao.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://nobuyaiwao.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://nobuyaiwao.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://nobuyaiwao.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nobuyaiwao.github.io/en/"
                 />
   </url>
 </urlset>
